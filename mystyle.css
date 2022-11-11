@@ -82,7 +82,7 @@ body {
 .info1 {
     width: 100%;
     height: 400px;
-    background: #CCCCFF;
+    background: #6CBB3C;
 }
 
 .info1_area {
@@ -94,7 +94,7 @@ body {
     float:left;
 }
 
-.info_text {
+.info1_text {
     text-align: center;
     width: 460px;
     float: left;
@@ -132,7 +132,7 @@ body {
     color: azure;
 }
 
-.info2_area ha {
+.info2_area h1 {
     margin: 0;
     font-weight: normal;
 }
